@@ -1,0 +1,3 @@
+self-constant:
+  fugle-api-url: https://api.fugle.tw/marketdata/v1.0/stock
+  x-api-key: <YOUR_API_KEY>
